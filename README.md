@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
+| [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
