@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -154,8 +156,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
+## Depth-First Search
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
