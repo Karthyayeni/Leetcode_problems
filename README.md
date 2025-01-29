@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1923-sentence-similarity-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0009-palindrome-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
