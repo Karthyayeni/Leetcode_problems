@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
