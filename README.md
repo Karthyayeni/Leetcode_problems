@@ -159,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
