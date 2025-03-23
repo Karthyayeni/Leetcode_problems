@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
