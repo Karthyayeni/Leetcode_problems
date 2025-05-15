@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0330-patching-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
