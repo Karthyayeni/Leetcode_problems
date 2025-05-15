@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
 ## String Matching
 |  |
 | ------- |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
