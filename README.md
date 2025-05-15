@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
