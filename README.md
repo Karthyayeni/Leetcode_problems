@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0097-interleaving-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
@@ -482,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
