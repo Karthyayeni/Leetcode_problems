@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0330-patching-array) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Tree
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Topological Sort
 |  |
 | ------- |
