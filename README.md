@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
