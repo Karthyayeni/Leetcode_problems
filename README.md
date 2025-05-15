@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [1304-longest-happy-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
 ## Graph
