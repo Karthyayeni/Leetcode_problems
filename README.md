@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
@@ -126,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 ## Monotonic Stack
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [1304-longest-happy-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 ## Linked List
 |  |
 | ------- |
@@ -297,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0185-department-top-three-salaries) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
