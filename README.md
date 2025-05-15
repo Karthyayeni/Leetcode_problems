@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
