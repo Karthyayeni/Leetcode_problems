@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0312-burst-balloons](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0312-burst-balloons) |
+| [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0061-rotate-list) |
+| [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -141,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
