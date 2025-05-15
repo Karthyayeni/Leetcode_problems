@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 ## Linked List
 |  |
