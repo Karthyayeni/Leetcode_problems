@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -465,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0460-lfu-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
