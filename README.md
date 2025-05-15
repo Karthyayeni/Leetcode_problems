@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
