@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0198-house-robber) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
