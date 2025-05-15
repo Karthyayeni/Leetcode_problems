@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
