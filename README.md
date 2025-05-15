@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0420-strong-password-checker) |
 | [0459-repeated-substring-pattern](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
+| [0466-count-the-repetitions](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
+| [0466-count-the-repetitions](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0466-count-the-repetitions) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
