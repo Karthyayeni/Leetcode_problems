@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
+| [0420-strong-password-checker](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0420-strong-password-checker) |
 | [0459-repeated-substring-pattern](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0420-strong-password-checker) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [1304-longest-happy-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
