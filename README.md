@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0354-russian-doll-envelopes) |
