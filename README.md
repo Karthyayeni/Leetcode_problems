@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
 ## Doubly-Linked List
 |  |
