@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## String Matching
 |  |
 | ------- |
@@ -355,4 +358,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
