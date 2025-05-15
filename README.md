@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
