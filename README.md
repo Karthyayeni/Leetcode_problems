@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0086-partition-list) |
 | [0321-create-maximum-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0908-middle-of-the-linked-list) |
