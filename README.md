@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [0420-strong-password-checker](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0420-strong-password-checker) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0301-remove-invalid-parentheses) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
