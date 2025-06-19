@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1923-sentence-similarity-iii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1073-number-of-enclaves) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Graph
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Karthyayeni/Leetcode_problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## String Matching
 |  |
 | ------- |
