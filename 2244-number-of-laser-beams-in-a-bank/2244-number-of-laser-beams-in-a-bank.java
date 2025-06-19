@@ -6,7 +6,7 @@ class Solution {
         for(String s : bank){
             int curr = 0;
             for(char c : s.toCharArray()){
-                curr += c - '0';
+                if(c == '1') curr++;
             }
             if(curr > 0){
                 count += curr * prev;
