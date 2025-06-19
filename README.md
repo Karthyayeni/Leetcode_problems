@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0089-gray-code) |
