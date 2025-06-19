@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0506-relative-ranks) |
+| [0554-brick-wall](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0554-brick-wall) |
 | [0739-daily-temperatures](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1036-rotting-oranges) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0149-max-points-on-a-line) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0460-lfu-cache) |
+| [0554-brick-wall](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1039-find-the-town-judge) |
