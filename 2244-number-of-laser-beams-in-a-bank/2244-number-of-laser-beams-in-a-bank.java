@@ -8,11 +8,10 @@ class Solution {
             for(char c : s.toCharArray()){
                 curr += c - '0';
             }
-            if(curr == 0)
-                continue;
-
-            count += curr * prev;
-            prev = curr;
+            if(curr > 0){
+                count += curr * prev;
+                prev = curr;
+            }
         }
         return count;
     }
