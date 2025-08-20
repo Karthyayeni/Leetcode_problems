@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0055-jump-game) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0354-russian-doll-envelopes) |
 | [0406-queue-reconstruction-by-height](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0079-word-search) |
