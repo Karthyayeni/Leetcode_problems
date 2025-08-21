@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1304-longest-happy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1923-sentence-similarity-iii) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Karthyayeni/Leetcode_problems/tree/master/0466-count-the-repetitions) |
+| [1250-longest-common-subsequence](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Karthyayeni/Leetcode_problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
