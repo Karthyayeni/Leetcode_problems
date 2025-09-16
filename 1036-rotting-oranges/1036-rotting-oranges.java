@@ -1,51 +1,55 @@
-class Pair{
-    int row;
-    int col;
-    int level;
-    Pair(int _row,int _col,int _level){
-        this.row=_row;
-        this.col = _col;
-        this.level = _level;
-    }//Pair(2,3,9)
-}
-class Solution{
-    public int orangesRotting(int [][] grid){
-       Queue<Pair> q = new LinkedList<>();
-       int m = grid.length;
-       int n = grid[0].length;
-       int fr =0;
-       int [][] vis = new int[m][n];
-       for(int i=0;i<m;i++){
-           for(int j=0;j<n;j++){
-               if(grid[i][j]==2){
-                   q.offer(new Pair(i,j,0));
-                   vis[i][j]=1;
-               }
-               if(grid[i][j]==1) fr++;
-           }
-       }
-       int max_level = 0;
-       int [] drow ={0,1,0,-1};
-       int [] dcol ={1,0,-1,0};
-       while(!q.isEmpty()){
-           int r = q.peek().row;
-           int c = q.peek().col;
-           int curr_level = q.peek().level;
-           q.poll();
-           max_level = Math.max(curr_level,max_level);
-           for(int i=0;i<4;i++){
-               int nrow= r+drow[i];
-               int ncol = c + dcol[i];
-               if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                   q.offer(new Pair(nrow,ncol,curr_level+1));
-                   vis[nrow][ncol]=1;
-                   fr--;
-               }
-               
-           }
-           
-       }
-       if(fr!=0) return -1;
-       return max_level;
+class Solution {
+    class Pair{
+        int row, col, time;
+        Pair(int r, int c, int t){
+            row = r;
+            col = c;
+            time = t;
+        }
+    }
+    public int orangesRotting(int[][] grid) {
+        Queue<Pair> q = new LinkedList<>();
+        int n = grid.length;
+        int m = grid[0].length;
+
+        int fresh = 0;
+
+        for(int i = 0;i < n;i++){
+            for(int j = 0;j < m;j++){
+                if(grid[i][j] == 2){
+                    q.add(new Pair(i, j, 0));
+                }
+                else if(grid[i][j] == 1){
+                    fresh++;
+                }
+            }
+        }
+
+        int[] dRow = {-1, 1, 0, 0};
+        int[] dCol = {0, 0, -1, 1};
+
+        int rc = 0, maxTime = 0;
+
+        while(!q.isEmpty()){
+            Pair p = q.poll();
+            int r = p.row;
+            int c = p.col;
+            int t = p.time;
+
+            maxTime = Math.max(maxTime, t);
+
+            for(int k = 0;k < 4;k++){
+                int newR = r + dRow[k];
+                int newC = c + dCol[k];
+
+                if(newR >= 0 && newR < n && newC >=0 && newC < m && grid[newR][newC] == 1){
+                    grid[newR][newC] = 2;
+                    q.add(new Pair(newR, newC, t + 1));
+                    rc++;
+                }
+            }
+        }
+
+        return rc == fresh ? maxTime : -1;
     }
 }
